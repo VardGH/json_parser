@@ -1,0 +1,13 @@
+{
+"student": {
+	"age": 41,
+	"address": {
+		"street": "Azatutyan",
+		"city": "Jermuk",
+		"zipcode": 90125
+	},
+	"score": 0,
+	"subject": "Science",
+	"name": "Maria"
+}
+}
