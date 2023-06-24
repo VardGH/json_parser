@@ -21,5 +21,5 @@ You can use the random_json.py script to generate a random JSON file for testing
 3. The script will generate a random JSON file named json.txt in the same directory.
 
 ## Testing
-The JSONParser class can be tested using the following step:
-Run the test program: python3 test.py
+The JSONParser class can be tested using the following step.
+- Run the test program: python3 test.py
